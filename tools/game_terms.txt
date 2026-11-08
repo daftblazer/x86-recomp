@@ -1,0 +1,9 @@
+# Words that must not appear in this repository outside README.md:
+# names, files and distinctive nouns of the programs recompiled with it.
+symphonia
+tos.exe
+tales of
+p12e
+tldat
+tofhdb
+fallout
