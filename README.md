@@ -6,7 +6,7 @@ on top of native replacements for the Windows APIs it imports.
 
 It is the shared layer under per-program projects, the way gcn-recomp is for GameCube games:
 
-- [kintsugi-symphonia](https://github.com/daftblazer/kintsugi-symphonia): *Tales of Symphonia* (Steam, 2016), where it was first written
+- kintsugi-symphonia: *Tales of Symphonia* (Steam, 2016), where it was first written
 
 **This repository contains no program code or data.** A project builds from its own copy of the
 executable, and the generated C lands in that project's build directory. `tools/check_generic.py`
